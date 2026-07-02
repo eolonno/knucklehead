@@ -464,10 +464,10 @@
         qwerty_layer {
             display-name = "L1";
             bindings = <
-&kp ESC                               &kp Q  &kp W          &kp E         &kp R            &kp T                   &kp Y                 &kp U         &kp I         &kp O          &kp P             &bkspc_del
-&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT  &kp A  &hrml LCTRL S  &hrml LALT D  &hrml LCMD F     &hrml LS(LC(LALT)) G    &hrmr LS(LC(LALT)) H  &hrmr LCMD J  &hrmr LALT K  &hrmr LCTRL L  &kp SEMICOLON     &kp ENTER
-&csl 2                                &kp Z  &kp X          &kp C         &kp V            &kp B                   &kp N                 &kp M         &kp COMMA     &kp DOT        &kp SINGLE_QUOTE  &csl 2
-                                                            &kp TAB       &mt LSHFT SPACE  &smart_num 1 0          &smart_num 1 0        &smart_shift  &kp GRAVE
+&kp ESC    &kp Q  &kp W          &kp E         &kp R            &kp T                   &kp Y                 &kp U         &kp I         &kp O          &kp P             &bkspc_del
+&kp GLOBE  &kp A  &hrml LCTRL S  &hrml LALT D  &hrml LCMD F     &hrml LS(LC(LALT)) G    &hrmr LS(LC(LALT)) H  &hrmr LCMD J  &hrmr LALT K  &hrmr LCTRL L  &kp SEMICOLON     &kp ENTER
+&csl 2     &kp Z  &kp X          &kp C         &kp V            &kp B                   &kp N                 &kp M         &kp COMMA     &kp DOT        &kp SINGLE_QUOTE  &csl 2
+                                 &kp TAB       &mt LSHFT SPACE  &smart_num 1 0          &smart_num 1 0        &smart_shift  &kp GRAVE
             >;
         };
 

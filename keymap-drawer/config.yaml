@@ -7,20 +7,20 @@ parse_config:
 
   raw_binding_map:
     # Layers
-    "&smart_num L2 0":
+    "&smart_num 1 0":
       shifted: $$mdi:alpha-w-box$$
       tap: L2
       hold: $$mdi:gesture-tap-hold$$
-    "&csl Fn":
+    "&csl 2":
       tap: Fn
       hold: $$mdi:close-box$$
-    "&csl L2":
+    "&csl 1":
       tap: L2
       hold: $$mdi:close-box$$
-    "&cmo Fn":
+    "&cmo 2":
       tap: $$mdi:close-box$$
       hold: Fn
-    "&cmo L2":
+    "&cmo 1":
       tap: $$mdi:close-box$$
       hold: L2
 

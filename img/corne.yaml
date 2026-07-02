@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: corneish_zen, layout_name: default_transform}
+layout: {zmk_keyboard: corne}
 layers:
   L1:
   - $$mdi:keyboard-esc$$
